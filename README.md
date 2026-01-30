@@ -22,7 +22,7 @@ An intelligent customer service chatbot for restaurants and food delivery servic
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/foodbot-rag.git
+git clone https://github.com/shahzaib-py/MenuMate-AI
 cd foodbot-rag
 
 # Create virtual environment

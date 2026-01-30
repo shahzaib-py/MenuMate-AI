@@ -1,0 +1,269 @@
+## BUSINESS OVERVIEW
+
+* Business name: Taste Of Punjab
+* Type: Home-style Punjabi food & tiffin service
+* Cooking style: Homemade, cooked in desi ghee
+* Service type: Pre-order food delivery + daily tiffin service
+* Tagline: "A taste of home in every bite"
+
+CONTACT INFORMATION:
+* WhatsApp / Message: +1 (415) 740-6302
+* Zelle Number: 5108200656
+* Venmo Number: 5108200656
+* Website: www.tasteofpunjab.us
+
+---
+
+## LOCATIONS & DELIVERY AREAS
+
+* Based in: San Leandro, CA
+* Delivers to:
+
+  * San Francisco
+  * East Bay (Emeryville, Hayward, Oakland nearby)
+  * Peninsula (limited)
+* Not currently delivering to:
+
+  * Pleasant Hill / Walnut Creek (planned in future)
+
+---
+
+## DELIVERY DETAILS
+
+* Delivery days: Monday to Saturday
+* Sunday delivery: Yes, available
+* Delivery timing by area:
+  * San Francisco: around 3-4 PM (route-based, won't be later than 4:30 PM)
+  * East Bay (Emeryville, Hayward, Oakland): before 1 PM, around 12-2 PM
+  * Can request preferred delivery time and we try to accommodate
+
+* Delivery type: Route-based delivery, time windows depend on area
+
+* Free delivery:
+  * Minimum order: $25
+  * No delivery fee
+  * No extra tax for tiffin service
+
+* Customers can switch delivery addresses on different days (e.g., home on weekends, office on weekdays)
+
+---
+
+## ORDERING RULES
+
+* Pre-order service: Order today, delivery next day
+* First come, first serve
+* Food is cooked fresh every morning
+* We cook daily Monday to Saturday
+
+ORDER PROCESS:
+1. Customer asks for menu or tiffin service
+2. Share the menu
+3. Ask: Small tiffin or Large tiffin?
+4. Collect: Name, delivery address, items/preferences
+5. Confirm spice level if needed
+6. Share Zelle/Venmo for payment
+
+CUSTOMERS CAN:
+* Change delivery address on different days
+* Request spice level (mild / medium / extra tadka)
+* Choose specific dishes from weekly menu
+* Order individual items or tiffin boxes
+* Pay after receiving delivery
+* Try one meal before committing to subscription
+
+---
+
+## COMPLETE FOOD MENU - FULL LIST OF ALL ITEMS AVAILABLE (curries, rice, breads, roti, tiffin boxes, food items, what we serve, what is available)
+
+COMPLETE MENU WITH ALL ITEMS:
+
+Curries (16oz / 32oz)
+Cabbage Matar          $12.99 / $22.99
+Mix Veg Sabji          $12.99 / $22.99
+Matar Paneer           $14.99 / $26.99
+Masoor Dal             $12.99 / $22.99
+Paneer Purji           $14.99 / $22.99
+Paravan Benghan        $14.99 / $26.99
+
+Rice & Biryani
+Veg Biryani (24oz)     $12.99
+Zeera Rice             $4.99 / $8.99
+Mix Bondi Raita        $4.99 / $8.99
+
+Breads
+Oat Roti               $8.99 (4 pcs)
+Roti                   $4.99 (4 pcs)
+Methi Roti             $7.99 (4 pcs)
+Plain Paranthas        $4.99 (2 pcs)
+
+Small Tiffin Box  -  $19.95
+1 Sabzi (8 oz) + 1 Curry (8 oz)
+4 Roti + Curd + Salad
+Optional Sweet: Kheer / Ghajrela
+
+Large Tiffin Box  -  $29.99
+1 Sabzi (12 oz) + 1 Curry (12 oz)
+8 Roti + Curd + Salad
+Optional Rice/Biryani (10 oz)
+Optional Sweet: Kheer / Ghajrela
+
+Menu changes every 1-2 weeks. All food is cooked fresh daily in desi ghee!
+
+---
+
+## POPULAR ROTATING DISHES (changes weekly):
+- Saag Makki di Roti
+- Dal Makhni
+- Shahi Paneer
+- Malai Kofta
+- Palak Paneer
+- Kadhi Pakora
+- Kala Chana
+- Baingan Bharta
+- Aloo Gobi
+- Bhindi Masala
+- Paneer Chilli
+- Paneer Bhurji
+- Chole/Bhature
+
+---
+
+## TIFFIN SERVICE (MOST IMPORTANT FOR CHATBOT)
+
+### Small Tiffin
+
+* Contents:
+
+  * 1 Sabzi (8 oz)
+  * 1 Curry (8 oz)
+  * 4 Roti
+  * Curd + Salad
+  * Optional sweet (Kheer / Gajar Halwa)
+* Price:
+
+  * Daily: **$20.95**
+  * Monthly: **$399**
+* Suitable for: 1 person / light meals
+
+### Large Tiffin
+
+* Contents:
+
+  * 1 Sabzi (12 oz)
+  * 1 Curry (12 oz)
+  * 8 Roti
+  * Curd + Salad
+  * Optional rice/biryani (10 oz)
+  * Optional sweet
+* Price:
+
+  * Daily: **$29.99**
+  * Monthly: **$585**
+* Suitable for: 2 meals or 2 people
+
+### Monthly Plans
+
+* Small Tiffin Monthly: $399
+* Large Tiffin Monthly: $585
+* Students Deals also available (ask for details)
+* Discounts available for frequent/regular customers
+* Customers can order multiple times per week (e.g., Sunday + Wednesday)
+
+### Customization Rules
+
+* Customers CAN:
+  * Choose sabzi & curry from the weekly menu
+  * Replace curd with extra rotis (e.g., 2 extra rotis instead of curd)
+  * Choose spice level: mild, medium, or extra tadka
+  * Request specific dishes from the current menu
+
+* Menu items depend on weekly menu
+* Custom tiffins are flexible based on availability
+* Customers can try one meal first before committing to subscription
+
+---
+
+## PAYMENTS
+
+* Accepted methods:
+  * Zelle: 5108200656
+  * Venmo: 5108200656
+  * Cash on delivery (allowed)
+
+* Payment timing:
+  * Can pay in advance via Zelle/Venmo
+  * Can pay after receiving delivery
+  * No extra tax or delivery fee for tiffin service
+
+---
+
+## FREQUENTLY ASKED QUESTIONS (Use these answers)
+
+Q: Where are you located?
+A: We're based in San Leandro and we deliver to East Bay, Peninsula, and SF.
+
+Q: Do you deliver to Emeryville/Hayward/Oakland?
+A: Yes, we deliver to East Bay areas including Emeryville, Hayward, and Oakland.
+
+Q: What time is delivery in SF?
+A: For SF, delivery is usually around 3-4 PM. We follow a scheduled route.
+
+Q: What time is delivery in East Bay?
+A: For East Bay (Emeryville, Hayward, Oakland), we can deliver before 1 PM, usually around 12-2 PM.
+
+Q: Do you deliver on Sunday?
+A: Yes, we deliver on Sundays too!
+
+Q: Do you cook daily?
+A: Yes, we cook fresh every morning, Monday to Saturday.
+
+Q: Is the food fresh?
+A: Yes! All food is cooked fresh every morning in homemade desi ghee.
+
+Q: What comes in a tiffin?
+A: Small Tiffin ($19.95): 1 Sabzi (8oz) + 1 Curry (8oz) + 4 Roti + Curd + Salad + Optional Sweet
+   Large Tiffin ($29.99): 1 Sabzi (12oz) + 1 Curry (12oz) + 8 Roti + Curd + Salad + Optional Rice (10oz) + Optional Sweet
+
+Q: Is large tiffin enough for 2 people/meals?
+A: Yes! Large tiffin is enough for 2 people or 2 meals.
+
+Q: Can I choose the sabzi and curry?
+A: Yes, you can choose from the current weekly menu.
+
+Q: Can I replace curd with extra rotis?
+A: Yes, you can replace curd with 2 extra rotis.
+
+Q: Does the menu change?
+A: Yes, we change the menu every 1-2 weeks.
+
+Q: Do you have monthly plans?
+A: Yes! Small Tiffin Monthly: $399, Large Tiffin Monthly: $585. Student deals also available.
+
+Q: Are there any discounts?
+A: Yes, we offer discounts for frequent/regular customers. Just ask!
+
+Q: What payment methods do you accept?
+A: We accept Zelle (5108200656), Venmo (5108200656), and Cash on delivery.
+
+Q: Can I pay after delivery?
+A: Yes, you can pay after receiving the delivery.
+
+Q: Can I switch delivery address?
+A: Yes, you can switch between different addresses on different days.
+
+Q: Are there extra charges for delivery or tax?
+A: No extra charges! For tiffin service, the price includes everything.
+
+Q: Can I try one meal first?
+A: Yes! You can try one meal anytime before committing to a subscription.
+
+---
+
+## CUSTOMER BEHAVIOR INSIGHTS
+
+* Customers ask many clarifying questions
+* Often confused between tiffin vs individual orders
+* Want flexible delivery timing
+* Price-sensitive frequent buyers
+* Appreciate polite, patient responses
+* Upsell opportunity: monthly plans after trial
